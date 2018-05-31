@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SideKick Music Player</string>
+    <string name="title">Available Playlists</string>
+    <string name="first">Pop Hits</string>
+    <string name="second">Country Hits</string>
+    <string name="third">Rock Hits</string>
+
+</resources>
